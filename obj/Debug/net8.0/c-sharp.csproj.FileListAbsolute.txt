@@ -1,0 +1,15 @@
+D:\Development\Programming\C#\c-sharp\c-sharp\bin\Debug\net8.0\c-sharp.exe
+D:\Development\Programming\C#\c-sharp\c-sharp\bin\Debug\net8.0\c-sharp.deps.json
+D:\Development\Programming\C#\c-sharp\c-sharp\bin\Debug\net8.0\c-sharp.runtimeconfig.json
+D:\Development\Programming\C#\c-sharp\c-sharp\bin\Debug\net8.0\c-sharp.dll
+D:\Development\Programming\C#\c-sharp\c-sharp\bin\Debug\net8.0\c-sharp.pdb
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.AssemblyInfoInputs.cache
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.AssemblyInfo.cs
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.csproj.CoreCompileInputs.cache
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.dll
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\refint\c-sharp.dll
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.pdb
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.genruntimeconfig.cache
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\ref\c-sharp.dll
+D:\Development\Programming\C#\c-sharp\c-sharp\obj\Debug\net8.0\c-sharp.sourcelink.json
