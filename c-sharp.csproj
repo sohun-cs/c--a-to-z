@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="datatypes.txt" />
+    <None Remove="string.txt" />
+  </ItemGroup>
+
 </Project>
